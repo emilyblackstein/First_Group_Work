@@ -7,8 +7,8 @@
 -	World Bank
 -	Asian Development Bank
 
-Colaborators:
-Emily - imported csvs, did portfolio analysis with Sophie
-Sophie - did Monte Carlo analysis and porfolio analysis with Emily
+# Colaborators:
+## Emily - imported csvs, did portfolio analysis with Sophie
+##Sophie - did Monte Carlo analysis and porfolio analysis with Emily
 Obi - Cleaned data
 Vishnu - Created visualizations 
