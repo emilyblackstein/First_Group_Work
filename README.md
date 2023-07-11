@@ -1,5 +1,5 @@
 # Group Project Outline
-## Our project aims to create a predictive analysis tool that estimates the future value of different currencies based on certain inputs. We will look to estimate these currencies based on inputs such as oil prices, government debt, net exports, and R&D. In order to achieve this, the data we choose should reflect the correlation between the identified inputs and exchange rate trends in the past. 
+## Our project aims to create a predictive analysis tool that estimates the future value of the US dollar based on certain inputs. We will look to estimate the US dollar based on inputs such as oil prices, government debt, net exports, and R&D. In order to achieve this, the data we choose should reflect the correlation between the identified inputs and exchange rate trends in the past. 
 
 ## Possible Sources of Data Include: 
 
@@ -13,10 +13,7 @@
 ## Obi - Cleaned data
 ## Vishnu - Created visualizations 
 
-# Team 2 
-
-
-
+Our old git hub (linked) https://github.com/emilyblackstein/Group_Project_One had many conflicts and became unreadable. This shows some of our branches but our slack chat is where people shared the code the worked on after the repository crashed. Please also see the screenshot in the images folder.
 
 ##  <font color="red"> 2. Hypothesis</font>
 
@@ -71,13 +68,6 @@ Currency Scope: The analysis was focused on a single Currency - USD
 Timeline: Data utilized for the analysis was over a 50 years period; 1971-2023
 Variables: Selection of 4 key variable to evaluate correlation to the US dollar index
 Visualization: Given the data scope, not all the features of pygwalker was used for visualization
-
-
-
-
-(for Oby)
-
-https://docs.readme.com/main/docs/linking-to-pages#:~:text=To%20link%20inline%2C%20type%20the,%2C%20%22(y)%22.&text=Reference%2Dstyle%20linking%20allows%20you,refer%20to%20it%20multiple%20times.
 
 
 ##  <font color="red"> Reference: </font>
